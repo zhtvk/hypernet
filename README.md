@@ -15,6 +15,7 @@ a pretrained network is provided for testing.
 
 If you find Hypernet useful in your research, please consider citing:
 
+```
 @inproceedings{Slavkovikj15Hypernet,
   author =       {Slavkovikj, Viktor and Verstockt, Steven and De Neve, Wesley
                   and Van Hoecke, Sofie and Van de Walle, Rik},
@@ -25,6 +26,7 @@ If you find Hypernet useful in your research, please consider citing:
   pages =        {1159--1162},
   numpages =     {4},
 }
+```
 
 ## Prerequisites
 
