@@ -3,7 +3,7 @@
 ## Introduction
 
 This is a short demo of our hyperspectral image classification method based on
-convolutional neural networks. Hypernet was initially described in our ACM MM'15
+convolutional neural networks. Hypernet was initially described in the ACM MM'15
 [paper](http://dl.acm.org/citation.cfm?id=2806306) titled Hyperspectral Image
 Classification with Convolutional Neural Networks.
 
